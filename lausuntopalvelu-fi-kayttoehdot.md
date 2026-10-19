@@ -1,3 +1,5 @@
+Referenced Oct 19th 2026. [Source](https://www.lausuntopalvelu.fi/FI/Instruction/Instruction?section=About)
+
 # Käyttöehdot
 ## 1. Lausuntopalvelun käyttötarkoitus
 Lausuntopalvelu.fi on verkkopalvelu joka toteuttaa julkishallinnon lausuntomenettelyn sähköisenä palveluna.
